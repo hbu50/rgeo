@@ -578,8 +578,7 @@ the shape follow the 50 degrees north latitude line, passing through
 Newfoundland? Or does it follow the actual shortest path on the globe, which
 passes much further north, close to Reykjavik, Iceland? (For a detailed
 explanation, see Morten Nielsen's post ["Straight Lines on a
-Sphere"](http://www.sharpgis.net/post/2008/01/12/Straight-lines-on-a-sphere.as
-px), which also includes some helpful diagrams.) If you were to call the SFS
+Sphere"](http://www.sharpgis.net/post/2008/01/12/Straight-lines-on-a-sphere), which also includes some helpful diagrams.) If you were to call the SFS
 "distance" function to measure the distance between this LineString and a
 Point located at Reykjavik, what would you get?
 
